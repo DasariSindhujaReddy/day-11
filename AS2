@@ -1,0 +1,8 @@
+age=19
+age=int(input())
+if age>=18:
+    print('Yes')
+else:
+    print('No')
+Footer
+© 2022 GitHub, Inc.
